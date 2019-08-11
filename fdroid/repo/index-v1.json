@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1565513788786,
+    "timestamp": 1565513822356,
     "version": 18,
     "name": "Simlar F-Droid Repo",
     "icon": "default-repo-icon.png",
@@ -16,13 +16,30 @@
   },
   "apps": [
     {
+      "authorName": "simlar.org",
+      "categories": [
+        "Phone & SMS"
+      ],
       "suggestedVersionCode": "47",
       "license": "Unknown",
       "name": "Simlar",
       "added": 1565513767699,
       "icon": "org.simlar.47.png",
       "packageName": "org.simlar",
-      "lastUpdated": 1565513788774
+      "lastUpdated": 1565513788774,
+      "localized": {
+        "de": {
+          "summary": "Mit Simlar sch\u00fctzt du deine Privatsph\u00e4re. Telefoniere verschl\u00fcsselt und kostenlos \u00fcber das Internet.",
+          "description": "<p>Mit Simlar sch&uuml;tzt du deine Privatsph&auml;re. Telefoniere verschl&uuml;sselt und kostenlos &uuml;ber das Internet. Die Bedienung ist einfach und intuitiv. Es funktioniert wie ganz normales Telefonieren: Kontakt ausw&auml;hlen und anrufen. Andere Simlar-Benutzer aus deinem Telefonbuch werden automatisch gefunden. Du wirst direkt sehen, wer schon Simlar installiert hat. Im Men&uuml; kannst du Freunde einladen. Simlar gibt es auch f&uuml;r das iPhone.<br /><br />Simlar benutzt das bew&auml;hrte Ende-zu-Ende-Verschl&uuml;sselungsprotokoll ZRTP. Damit k&ouml;nnen deine Gespr&auml;che nicht mitgeh&ouml;rt werden &ndash; auch nicht von uns. Beim ersten Anruf sollte einmalig ein vierstelliger Code abgeglichen werden. Dann ist diese Verbindung dauerhaft sicher. Simlar ist eine freie Software und unterliegt der Open-Source-Lizenz GPL. Die Entwicklung von Simlar kann Schritt f&uuml;r Schritt nachvollzogen und gepr&uuml;ft werden. Der Quellcode ist auf simlar.org frei einsehbar. <br /><br />Die beste Ton-Qualit&auml;t erreichst du &uuml;ber WLAN. Simlar funktioniert auch &uuml;ber mobiles Internet. 2 Minuten Gespr&auml;chszeit entsprechen circa 1 MB Datenvolumen. Einzelheiten findest du in den FAQ auf simlar.org.</p>",
+          "phoneScreenshots": [
+            "unnamed.png",
+            "unnamed2.png",
+            "unnamed3.png",
+            "unnamed4.png",
+            "unnamed5.png"
+          ]
+        }
+      }
     }
   ],
   "packages": {
