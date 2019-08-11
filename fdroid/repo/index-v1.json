@@ -1,0 +1,109 @@
+{
+  "repo": {
+    "timestamp": 1565513788786,
+    "version": 18,
+    "name": "Simlar F-Droid Repo",
+    "icon": "default-repo-icon.png",
+    "address": "https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo",
+    "description": "A repository for the encrypted phone app Simlar",
+    "mirrors": [
+      "https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "47",
+      "license": "Unknown",
+      "name": "Simlar",
+      "added": 1565513767699,
+      "icon": "org.simlar.47.png",
+      "packageName": "org.simlar",
+      "lastUpdated": 1565513788774
+    }
+  ],
+  "packages": {
+    "org.simlar": [
+      {
+        "added": 1565513788774,
+        "apkName": "Simlar-alwaysOnline.apk",
+        "hash": "84748688e5a79619f3c363cd7ab2eb4bcc43c9b2ddafd1118492a74b83cbc0e0",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.simlar",
+        "sig": "6d01b8f89b9c2931be1e2bd26d5ec9fc",
+        "size": 39791175,
+        "targetSdkVersion": "29",
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_LOGS",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 47,
+        "versionName": "2.0.2 (alwaysOnline)"
+      }
+    ]
+  }
+}

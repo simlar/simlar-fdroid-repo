@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="default-repo-icon.png" name="Simlar F-Droid Repo" pubkey="30820503308202eba00302010202040a90e71d300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3139303831313130353532315a170d3436313232373130353532315a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100b40979d5f384093c31f609a75a15071a693e16ef59d4064bcc18f1a2fa0ca0f1cfdb7ea3f8f8ed2dab39a2faabe2ef792e3303e31fd987ea0f3739e6487f997a67eb84804521b37adff029b085e5776d78a7a8b82ce5a7258cd8fb4e6d9a4bab951dfdfe9d7afdb2e143713bbe6602301511223b38b57ebc9a2ad299a0c1d50c4c0623aa7b3688b427f2dcb1a6958cb1e1c128b9a12e4531cad3893b6c0c848d7524cdb576f101d0a49127181f30ca742e5cab60c2236d636b537221048e28c2ac363a1f38e7c745de38fbd6c75401be0b92c64ce99afa5e138fb904558f6edb777b6ddf2c041ce8c27c3e912dc8dc1aa8548080813f22c1e339409a98a8fc9d92ac7f64f065e5432f59577581dfd14dcef1c19dfd8f201f44bc7e7994c48037e21fbade87873e81be3b036bcd4489c94a36608425cbfb3c3476bbf32bd43fc186b79f855cc7ee725c7f94e3bf036183e64bbbe47d3f34e2c390ce828cfb413c76d93a43ab72aac7f19df71d286000e8b1bddc2e8ff831fe2631795951d9e0a3c51510f96b449ab3ca1c3e88d9ecfb48ab1948853af3009307c23f7013af16da8e8ed6bb2480360036d003bfa10e1820d07c1f1a5e08a161aaa5d15ab65328a85cce5a41f53f1fe88e69e179bbda21691279ec0bc90f1e7557733a7d5ccbc3a16fe7f91443a5ca6406fad5ffa4eb076b14432838ed99c4c0340cb5bc8b9391670203010001a321301f301d0603551d0e04160414e8f4f7df992658197f43b74638754fa63e74a0fd300d06092a864886f70d01010b050003820201003c950e4f8b41290a89c0284fc4e693716b155c708524a8eaf3f5e9fb0dc9c6fcda5389e8f2db26dff4717c879c43ca1dca249d7e4b5b34e4487ee3c2f8688fab65d0cf08ae4ade1bb3970577395afe751cd807e153b4d6b39ee78cb98e1525595059875f4b60ac0527a3741935dce5901541c7e9880d4c0a27f964860605f83f7a436858ac12be3b632ef8988386cdc32aa5f31bb37a2ced54f0273a5eee19eabdc36fc67c1b44a4dfa25903eba7fc28c47b89c0a038a172a47a7c122e0ba6da956bddfe03692ee27f6a06916f17a72cb35dfd0a43a5ad8d75d3493b92ea5f99bc68a2c5bc9a86e615bc1625b949ea6bfff561fe42121594d29313c4b3000e2ea0b81699b557b717eec08f2b12915113029335708d80d460994d3502ca7951fdc135b2c89462207cb55fb64cdc01e1ba4a9745048a54ce9a13c53aaa6431d9628681ce1638f461f418626e1c475114311054ace1962447d8ccf606ec090b786a19a2709b4d434e0207cb03e1350ec9d771ba48020221208cc3a4349df1d24adea84a80913d36a7f2288ded377e985991b2f98bb98a5891c4d36fefab4c8a0e9dd7cf04136784bb738187553446682dc5abae4222b514892ebf4d08857ebf45222aacf139ab991484d223f98a291855b09c19cfb119cc348d18f02914913056f705df5a7529a8c00c7b93ee18593ab97552194ddc62ee2c01ae98ae62d79ed5d3" timestamp="1565513788" url="https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo" version="18">
+		<description>A repository for the encrypted phone app Simlar</description>
+		<mirror>https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="org.simlar">
+		<id>org.simlar</id>
+		<added>2019-08-11</added>
+		<lastupdated>2019-08-11</lastupdated>
+		<name>Simlar</name>
+		<summary></summary>
+		<icon>org.simlar.47.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>47</marketvercode>
+		<package>
+			<version>2.0.2 (alwaysOnline)</version>
+			<versioncode>47</versioncode>
+			<apkname>Simlar-alwaysOnline.apk</apkname>
+			<hash type="sha256">84748688e5a79619f3c363cd7ab2eb4bcc43c9b2ddafd1118492a74b83cbc0e0</hash>
+			<size>39791175</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2019-08-11</added>
+			<sig>6d01b8f89b9c2931be1e2bd26d5ec9fc</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_NOTIFICATION_POLICY,CAMERA,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_LOGS,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,VIBRATE,WAKE_LOCK</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+</fdroid>
