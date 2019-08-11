@@ -7,7 +7,7 @@ Please note that due to the removal of GApps, the app has to run permanently in 
 
 To add the repo to **F-Droid**, just click on the link:
 
-[https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo?fingerprint=EE2C075BAE1D41BBD9C2195C4CAE140C789C9ED2E0D6C6A569108E81F625D049](https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo?fingerprint=EE2C075BAE1D41BBD9C2195C4CAE140C789C9ED2E0D6C6A569108E81F625D049)
+[CLICK HERE](fdroidrepos://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo?fingerprint=EE2C075BAE1D41BBD9C2195C4CAE140C789C9ED2E0D6C6A569108E81F625D049)
 
 Or copy this link:
 
