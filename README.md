@@ -11,6 +11,6 @@ To add the repo to **F-Droid**, just copy this link:
 https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo?fingerprint=EE2C075BAE1D41BBD9C2195C4CAE140C789C9ED2E0D6C6A569108E81F625D049
 ```
 
-Or simple scan this qrcode with the F-Droid app:
+Or simple scan this qrcode:
 
 ![qrcode](https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/static/img/qrcode.png)
