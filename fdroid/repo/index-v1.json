@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1565521306029,
+    "timestamp": 1570514157677,
     "version": 18,
     "name": "Simlar F-Droid Repo",
     "icon": "default-repo-icon.png",
@@ -20,13 +20,13 @@
       "categories": [
         "Phone & SMS"
       ],
-      "suggestedVersionCode": "47",
+      "suggestedVersionCode": "48",
       "license": "Unknown",
       "name": "Simlar",
       "added": 1565513767699,
-      "icon": "org.simlar.47.png",
+      "icon": "org.simlar.48.png",
       "packageName": "org.simlar",
-      "lastUpdated": 1565513788774,
+      "lastUpdated": 1570514157660,
       "localized": {
         "de": {
           "description": "<p>Mit Simlar sch&uuml;tzt du deine Privatsph&auml;re. Telefoniere verschl&uuml;sselt und kostenlos &uuml;ber das Internet. Die Bedienung ist einfach und intuitiv. Es funktioniert wie ganz normales Telefonieren: Kontakt ausw&auml;hlen und anrufen. Andere Simlar-Benutzer aus deinem Telefonbuch werden automatisch gefunden. Du wirst direkt sehen, wer schon Simlar installiert hat. Im Men&uuml; kannst du Freunde einladen. Simlar gibt es auch f&uuml;r das iPhone.<br /><br />Simlar benutzt das bew&auml;hrte Ende-zu-Ende-Verschl&uuml;sselungsprotokoll ZRTP. Damit k&ouml;nnen deine Gespr&auml;che nicht mitgeh&ouml;rt werden &ndash; auch nicht von uns. Beim ersten Anruf sollte einmalig ein vierstelliger Code abgeglichen werden. Dann ist diese Verbindung dauerhaft sicher. Simlar ist eine freie Software und unterliegt der Open-Source-Lizenz GPL. Die Entwicklung von Simlar kann Schritt f&uuml;r Schritt nachvollzogen und gepr&uuml;ft werden. Der Quellcode ist auf simlar.org frei einsehbar. <br /><br />Die beste Ton-Qualit&auml;t erreichst du &uuml;ber WLAN. Simlar funktioniert auch &uuml;ber mobiles Internet. 2 Minuten Gespr&auml;chszeit entsprechen circa 1 MB Datenvolumen. Einzelheiten findest du in den FAQ auf simlar.org.</p>\r\n<p>.</p>",
@@ -120,6 +120,83 @@
         ],
         "versionCode": 47,
         "versionName": "2.0.2 (alwaysOnline)"
+      },
+      {
+        "added": 1570514157660,
+        "apkName": "Simlar-alwaysOnline_CQCo6a6.apk",
+        "hash": "430abfd50767c70511c3b76094282b3a0189440d26c7d4cb4e022ccd8d07b11e",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.simlar",
+        "sig": "6d01b8f89b9c2931be1e2bd26d5ec9fc",
+        "size": 39824959,
+        "targetSdkVersion": "29",
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_LOGS",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 48,
+        "versionName": "2.1.0 (alwaysOnline)"
       }
     ]
   }
